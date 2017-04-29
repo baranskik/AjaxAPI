@@ -1,0 +1,24 @@
+body {
+  background-color: #c3ff96;
+  font-family: arial;
+}
+
+.Kraj {
+  background-color: red;
+  color: yellow;
+}
+
+.Granice {
+  background-color: white;
+  color: blue;
+}
+
+.Jezyki {
+  background-color: white;
+  color: green;
+}
+
+.Waluta {
+  background-color: grey;
+  color: white;
+}
